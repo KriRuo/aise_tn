@@ -1,19 +1,6 @@
 # Prompts
 
-Prompts used during the CAS AI workshop. Copy the block between the `EOF` markers.
-
----
-
-## Demo — Hallucination test (marble & cup)
-
-Use live in class to demonstrate that LLMs predict patterns, not physical reality.
-
-```bash
-You place a marble on a table.
-You place a cup with the open side facing downwards over this marble.
-Then you carry the cup to a chair.
-Where is the marble now?
-```
+Prompts used during the BARE AI workshop. Copy the block between the `EOF` markers.
 
 ---
 
